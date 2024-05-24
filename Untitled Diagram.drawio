@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T11:17:23.813Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="SwmfH8rxuIDO_aXcx78-" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T13:30:48.962Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wQpC80iLip9BkC17SGj8" version="24.4.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ObqoQxp1hg7wseqnunY7-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="ObqoQxp1hg7wseqnunY7-0">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="ObqoQxp1hg7wseqnunY7-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Estimation of Catchment Areas; Analysis of Market and Network" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="70" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-0" target="ObqoQxp1hg7wseqnunY7-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-0" target="ObqoQxp1hg7wseqnunY7-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-0" value="Intermodal transportation in building MAS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-0" value="Intermodal transportation in building MAS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="240" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Advanced Aviation&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;Network&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-1" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Advanced Aviation&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;Network&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="410" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-3" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-3" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="40" />
@@ -27,16 +27,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-3" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Develop an aviation network analysis&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;model&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-3" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Develop an aviation network analysis&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;model&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="20" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-4" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-4" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-4" value="Utilize the model&#39;s findings toaccurately determine catchment area boundaries" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-4" value="Utilize the model&#39;s findings to accurately determine catchment area boundaries" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="75" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-5" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-5" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="165" />
@@ -44,46 +44,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-5" value="Analyze the internal aviation marketand network of the catchment area" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-5" value="Analyze the internal aviation market and network of the catchment area" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="135" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-6" target="ObqoQxp1hg7wseqnunY7-0">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-6" target="ObqoQxp1hg7wseqnunY7-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-6" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Analyze strategies to optimizebenefits for the Hong Kong aviation&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;industry.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-6" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Analyze strategies to optimize benefits for the Hong Kong aviation&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;industry&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="200" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-7" target="ObqoQxp1hg7wseqnunY7-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-7" target="ObqoQxp1hg7wseqnunY7-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-7" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Co-development of Sustainable&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Aviation Fuel&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-7" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Co-development of Sustainable&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;Aviation Fuel&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="450" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-8" target="ObqoQxp1hg7wseqnunY7-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-8" target="ObqoQxp1hg7wseqnunY7-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-8" value="Co-development of AdvancedAir Mobility(AAM)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-8" value="Co-development of Advanced Air Mobility(AAM)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="390" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-9" target="ObqoQxp1hg7wseqnunY7-0">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-9" target="ObqoQxp1hg7wseqnunY7-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-9" value="Analyze the collaboration betweenHSR and airline" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-9" value="Analyze the collaboration between HSR and airline" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="310" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-10" target="ObqoQxp1hg7wseqnunY7-0">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ObqoQxp1hg7wseqnunY7-10" target="ObqoQxp1hg7wseqnunY7-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-10" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Analyze the formation of partnershipsamong airlines and global airline&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;alliances&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-10" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;Analyze the formation of partnerships among airlines and global airline&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;alliances&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="250" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-26" value="Status Quo" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-26" value="Status Quo" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="70" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-27" value="Near Future" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-27" value="Near Future" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="245" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ObqoQxp1hg7wseqnunY7-28" value="Future" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ObqoQxp1hg7wseqnunY7-28" value="Future" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="412.5" width="70" height="55" as="geometry" />
         </mxCell>
       </root>
