@@ -1,20 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1434" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2364" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="Module 1. Optimal strategies for SAF usage in airports" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="14" y="142" width="430" height="570" as="geometry">
+          <mxGeometry x="-10" y="142" width="454" height="628" as="geometry">
             <mxRectangle x="164.5" y="128" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="2" edge="1">
+        <mxCell id="6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="2" source="LJBLf-9OPQEesqbSQKG5-45" edge="1">
           <mxGeometry x="100" y="40" as="geometry">
-            <mxPoint x="90" y="112" as="targetPoint" />
-            <mxPoint x="185" y="72" as="sourcePoint" />
+            <mxPoint x="74" y="162" as="targetPoint" />
+            <mxPoint x="169" y="122" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="185" y="90" />
+              <mxPoint x="169" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -22,57 +22,69 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7" value="SAF decarbonization" style="" parent="2" vertex="1">
-          <mxGeometry x="30" y="110" width="120" height="30" as="geometry" />
+          <mxGeometry x="14" y="160" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Module building and analysis" style="" parent="2" vertex="1">
-          <mxGeometry x="60" y="220" width="170" height="50" as="geometry" />
+          <mxGeometry x="44" y="270" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="10" value=" SAF usage in different scenarios" style="" parent="2" vertex="1">
-          <mxGeometry x="60" y="325" width="190" height="50" as="geometry" />
+          <mxGeometry x="35" y="355" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="8" target="10" edge="1">
+        <mxCell id="11" value="" style="endArrow=open;strokeColor=#000000;endFill=1;rounded=0" parent="2" source="8" target="10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0" parent="2" source="10" target="7" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="160" y="290" as="sourcePoint" />
-            <mxPoint x="260" y="190" as="targetPoint" />
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="LJBLf-9OPQEesqbSQKG5-45" target="LJBLf-9OPQEesqbSQKG5-48">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="30" y="250" />
+              <mxPoint x="162" y="138" />
+              <mxPoint x="265" y="138" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="LJBLf-9OPQEesqbSQKG5-45" target="LJBLf-9OPQEesqbSQKG5-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-45" value="emissions and co-benefit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2">
-          <mxGeometry x="100" y="48" width="170" height="22" as="geometry" />
+          <mxGeometry x="84" y="78" width="156" height="22" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2" source="LJBLf-9OPQEesqbSQKG5-48" target="8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-48" value="the role of airport in SAF deployment" style="" vertex="1" parent="2">
-          <mxGeometry x="176" y="110" width="210" height="30" as="geometry" />
+          <mxGeometry x="160" y="160" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-52" value="passenger demand function;&lt;div&gt;Airports demant function;&lt;/div&gt;&lt;div&gt;etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2">
-          <mxGeometry x="256" y="215" width="162" height="60" as="geometry" />
+          <mxGeometry x="240" y="265" width="162" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2" source="8" target="LJBLf-9OPQEesqbSQKG5-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="546" y="208" as="sourcePoint" />
-            <mxPoint x="596" y="158" as="targetPoint" />
+            <mxPoint x="530" y="258" as="sourcePoint" />
+            <mxPoint x="580" y="208" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-57" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="2">
-          <mxGeometry x="153" y="390" width="20" height="88" as="geometry" />
-        </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2" source="LJBLf-9OPQEesqbSQKG5-57" target="10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="536" y="198" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-57" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=0;" vertex="1" parent="2">
+          <mxGeometry x="239" y="336" width="20" height="88" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-60" value="&lt;ul&gt;&lt;li&gt;1 SAF producer; flexibility mechanism&amp;nbsp;&lt;/li&gt;&lt;li&gt;2 SAF producers; without flexibility mechanism&lt;br&gt;&lt;/li&gt;&lt;li&gt;2 SAF producer; flexibility mechanism&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="2">
-          <mxGeometry x="141" y="376" width="190" height="122" as="geometry" />
+          <mxGeometry x="226" y="320" width="190" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-79" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2" source="10" target="LJBLf-9OPQEesqbSQKG5-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="348" as="sourcePoint" />
+            <mxPoint x="210" y="298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-73" value="&lt;span style=&quot;font-weight: 700; text-align: -webkit-center;&quot;&gt;Policy and Management Recommendations&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="2">
+          <mxGeometry x="14" y="448" width="264" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-74" value="1. Comparing Social Welfare Under Different Mechanism Designs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-73">
+          <mxGeometry y="30" width="264" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-75" value="2. Airport SAF Infrastructure Construction Strategies Under Specific Policies" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-73">
+          <mxGeometry y="70" width="264" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-76" value="3. Comparing Carbon Reduction Effects Under Different Scenarios" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-73">
+          <mxGeometry y="110" width="264" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-71" value="1. Should SAF be distributed equally across all airports?&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. What are the features of airports that should be encouraged to develop SAF infrastructure and use SAF?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="2">
+          <mxGeometry x="244" y="48" width="210" height="82" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Thread 2" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="444.5" y="142" width="280" height="570" as="geometry" />
@@ -175,14 +187,17 @@
         <mxCell id="39" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="4" source="33" target="38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="20" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="10" target="18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-42" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0cm 0cm 8pt; line-height: normal; font-size: 11pt; font-family: DengXian;&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;The role of airports in the optimal deployment of sustainable aviation fuels (SAFs): Usage, incentives, and infrastructure investments&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="300" y="1" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-44" value="Building the Foundation&lt;div&gt;Systematic Examination of Literature, Reports, and Policies Driving SAF Integration&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="66" width="455" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-61" value="Result analysis" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-72" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Policy and Management Recommendations&lt;br&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1. Comparing Social Welfare Under Different Mechanism Designs&lt;br&gt;2. Airport SAF Infrastructure Construction Strategies Under Specific Policies&lt;br&gt;3. Comparing Carbon Reduction Effects Under Different Scenarios&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="250" width="270" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
