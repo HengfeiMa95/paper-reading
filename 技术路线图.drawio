@@ -257,16 +257,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4" value="Module 3. Airport-based capacity investment of SAF infrastructure" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="670" y="142" width="410" height="570" as="geometry" />
+          <mxGeometry x="660" y="142" width="410" height="570" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-153" value="&lt;div&gt;1. How do airports&#39; SAF infrastructure decisions affect investments across the supply chain?&lt;/div&gt;&lt;div&gt;2. What ownership structures best promote on-airport SAF infrastructure investment?&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="4">
           <mxGeometry x="70" y="32.5" width="270" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-154" value="SAF subsidy quantity" style="" vertex="1" parent="4">
-          <mxGeometry x="14.75" y="118" width="120" height="30" as="geometry" />
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-154" value="Ownership Strategy" style="" vertex="1" parent="4">
+          <mxGeometry x="60" y="118" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-155" value="source of the airport&#39;s SAF subsidy" style="" vertex="1" parent="4">
-          <mxGeometry x="202.75" y="118" width="192.5" height="30" as="geometry" />
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-155" value="Supply Chain Investment" style="" vertex="1" parent="4">
+          <mxGeometry x="220" y="118" width="145.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-156" value="Module building and analysis" style="" vertex="1" parent="4">
+          <mxGeometry x="60" y="183" width="160.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-157" value="passenger demand function;&lt;div&gt;SAF cost function;&lt;/div&gt;&lt;div&gt;Policy restriction&lt;/div&gt;&lt;div&gt;etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4">
+          <mxGeometry x="236.25" y="178" width="162" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-42" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0cm 0cm 8pt; line-height: normal; font-size: 11pt; font-family: DengXian;&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;The role of airports in the optimal deployment of sustainable aviation fuels (SAFs): Usage, incentives, and infrastructure investments&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="300" y="1" width="570" height="60" as="geometry" />
