@@ -134,7 +134,7 @@
         <mxCell id="LJBLf-9OPQEesqbSQKG5-118" value="4 kinds of subsidy strategy" style="" vertex="1" parent="3">
           <mxGeometry x="66.5" y="288" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-119" value="passenger demand function;&lt;div&gt;SAF cost function;&lt;/div&gt;&lt;div&gt;etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-119" value="passenger demand function;&lt;div&gt;SAF cost function;&lt;/div&gt;&lt;div&gt;Policy restriction&lt;/div&gt;&lt;div&gt;etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
           <mxGeometry x="271.5" y="198" width="162" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-120" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3" source="LJBLf-9OPQEesqbSQKG5-117" target="LJBLf-9OPQEesqbSQKG5-119">
