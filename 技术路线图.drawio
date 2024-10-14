@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1988" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2603" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
         <mxCell id="10" value=" SAF usage in 3 different scenarios" style="" parent="2" vertex="1">
           <mxGeometry x="44" y="288" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-52" value="passenger demand function;&lt;div&gt;Airports demant function;&lt;/div&gt;&lt;div&gt;etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-52" value="passenger demand function;&lt;div style=&quot;font-size: 11px;&quot;&gt;Airports demant function;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="2" vertex="1">
           <mxGeometry x="249" y="198" width="162" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2" source="8" target="LJBLf-9OPQEesqbSQKG5-52" edge="1">
@@ -72,7 +72,7 @@
         <mxCell id="LJBLf-9OPQEesqbSQKG5-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.441;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="2" source="10" target="LJBLf-9OPQEesqbSQKG5-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-60" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1 SAF plant; flexibility mechanism&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2 SAF plant; without flexibility mechanism&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2 SAF plant; flexibility mechanism&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="2" vertex="1">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-60" value="&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;1 SAF plant; flexibility mechanism&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;2 SAF plant; without flexibility mechanism&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;2 SAF plant; flexibility mechanism&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=11;" parent="2" vertex="1">
           <mxGeometry x="268" y="252" width="162" height="122" as="geometry" />
         </mxCell>
         <mxCell id="lu8GZyo01GJMkmbSmP88-20" value="Key points to consider" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" vertex="1" parent="2">
@@ -114,7 +114,7 @@
         <mxCell id="LJBLf-9OPQEesqbSQKG5-118" value="4 kinds of subsidy strategy" style="" parent="3" vertex="1">
           <mxGeometry x="87.75" y="258" width="160.5" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-119" value="passenger demand function;&lt;div&gt;SAF cost function;&lt;/div&gt;&lt;div&gt;Policy restriction;&lt;/div&gt;&lt;div&gt;two-stage game-theoretic model,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;etc.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="3" vertex="1">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-119" value="passenger demand function;&lt;div style=&quot;font-size: 11px;&quot;&gt;SAF cost function;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;Policy restriction;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;two-stage game-theoretic model,&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;etc.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="3" vertex="1">
           <mxGeometry x="268.5" y="192" width="162" height="79" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-120" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3" source="LJBLf-9OPQEesqbSQKG5-117" target="LJBLf-9OPQEesqbSQKG5-119" edge="1">
@@ -278,7 +278,7 @@
         <mxCell id="LJBLf-9OPQEesqbSQKG5-156" value="Module building and analysis" style="" parent="4" vertex="1">
           <mxGeometry x="36" y="202" width="160.5" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-157" value="SAF cost function,with investment variable; Policy restriction;&lt;br&gt;etc." style="rounded=1;whiteSpace=wrap;html=1;" parent="4" vertex="1">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-157" value="SAF cost function,with investment variable; Policy restriction;&lt;br style=&quot;font-size: 11px;&quot;&gt;etc." style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="4" vertex="1">
           <mxGeometry x="216" y="187" width="188.25" height="52" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.203;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="4" source="LJBLf-9OPQEesqbSQKG5-158" target="LJBLf-9OPQEesqbSQKG5-163" edge="1">
@@ -296,7 +296,7 @@
         <mxCell id="LJBLf-9OPQEesqbSQKG5-159" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=0;" parent="4" vertex="1">
           <mxGeometry x="206.25" y="250" width="20" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-160" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Off-airport fuel supply, On-airport fuel supply, Airport, Airlines, operated seperately.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Airport invest on on-airport fuel supply&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Airlines invest on on-airport fuel supply&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="4" vertex="1">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-160" value="&lt;ol style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Off-airport fuel supply, On-airport fuel supply, Airport, Airlines, operated seperately.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Airport invest on on-airport fuel supply&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Airlines invest on on-airport fuel supply&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=11;" parent="4" vertex="1">
           <mxGeometry x="200" y="233" width="240" height="122" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-161" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="4" source="LJBLf-9OPQEesqbSQKG5-158" target="LJBLf-9OPQEesqbSQKG5-159" edge="1">
