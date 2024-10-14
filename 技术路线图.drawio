@@ -1,21 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2291" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2158" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="Module 1. Optimal strategies for SAF usage in airports" style="swimlane;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="142" width="430" height="538" as="geometry">
+          <mxGeometry x="-270" y="142" width="450" height="538" as="geometry">
             <mxRectangle x="-110" y="126" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="7" target="8">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2" source="7" target="8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7" value="SAF decarbonization" style="" parent="2" vertex="1">
           <mxGeometry x="23" y="128" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="2" source="8" target="10">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="2" source="8" target="10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Module building and analysis" style="" parent="2" vertex="1">
@@ -24,7 +24,7 @@
         <mxCell id="10" value=" SAF usage in 3 different scenarios" style="" parent="2" vertex="1">
           <mxGeometry x="44" y="278" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="2">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="275" y="160" as="sourcePoint" />
             <mxPoint x="139" y="193" as="targetPoint" />
@@ -34,43 +34,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-48" value="the role of airport in SAF deployment" style="" vertex="1" parent="2">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-48" value="the role of airport in SAF deployment" style="" parent="2" vertex="1">
           <mxGeometry x="153" y="128" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-52" value="passenger demand function;&lt;div&gt;Airports demant function;&lt;/div&gt;&lt;div&gt;etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-52" value="passenger demand function;&lt;div&gt;Airports demant function;&lt;/div&gt;&lt;div&gt;etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="2" vertex="1">
           <mxGeometry x="249" y="188" width="162" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2" source="8" target="LJBLf-9OPQEesqbSQKG5-52">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2" source="8" target="LJBLf-9OPQEesqbSQKG5-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="539" y="181" as="sourcePoint" />
             <mxPoint x="589" y="131" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-57" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=0;" vertex="1" parent="2">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-57" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=0;" parent="2" vertex="1">
           <mxGeometry x="248" y="259" width="20" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-60" value="&lt;ul&gt;&lt;li&gt;1 SAF plant; flexibility mechanism&amp;nbsp;&lt;/li&gt;&lt;li&gt;2 SAF plant; without flexibility mechanism&lt;br&gt;&lt;/li&gt;&lt;li&gt;2 SAF plant; flexibility mechanism&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="2">
-          <mxGeometry x="230" y="242" width="190" height="122" as="geometry" />
-        </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-79" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2" source="10" target="LJBLf-9OPQEesqbSQKG5-57">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-79" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="2" source="10" target="LJBLf-9OPQEesqbSQKG5-57" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="169" y="271" as="sourcePoint" />
             <mxPoint x="219" y="221" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-73" value="&lt;span style=&quot;font-weight: 700; text-align: -webkit-center;&quot;&gt;Policy and Management Recommendations&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="2">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-73" value="&lt;span style=&quot;font-weight: 700; text-align: -webkit-center;&quot;&gt;Policy and Management Recommendations&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="2" vertex="1">
           <mxGeometry x="23" y="371" width="264" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-74" value="1. Comparing Social Welfare Under Different Mechanism Designs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-73">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-74" value="1. Comparing Social Welfare Under Different Mechanism Designs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-73" vertex="1">
           <mxGeometry y="30" width="264" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-75" value="2. Airport SAF Infrastructure Construction Strategies Under Specific Policies" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-73">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-75" value="2. Airport SAF Infrastructure Construction Strategies Under Specific Policies" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-73" vertex="1">
           <mxGeometry y="70" width="264" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-76" value="3. Comparing Carbon Reduction Effects Under Different Scenarios" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-73">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-76" value="3. Comparing Carbon Reduction Effects Under Different Scenarios" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-73" vertex="1">
           <mxGeometry y="110" width="264" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="2" source="LJBLf-9OPQEesqbSQKG5-71" target="LJBLf-9OPQEesqbSQKG5-48">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="2" source="LJBLf-9OPQEesqbSQKG5-71" target="LJBLf-9OPQEesqbSQKG5-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="140" y="108" />
@@ -78,39 +75,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="2">
+        <mxCell id="lu8GZyo01GJMkmbSmP88-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="LJBLf-9OPQEesqbSQKG5-71" target="7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="177" y="99.99999999999989" as="sourcePoint" />
-            <mxPoint x="83" y="128" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="100" />
               <mxPoint x="140" y="108" />
-              <mxPoint x="84" y="108" />
-              <mxPoint x="84" y="128" />
+              <mxPoint x="83" y="108" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-71" value="1. Should SAF be distributed equally across all airports?&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. What are the features of airports that should be encouraged to develop SAF infrastructure and use SAF?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="2">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-71" value="1. Should SAF be distributed equally across all airports?&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. What are the features of airports that should be encouraged to develop SAF infrastructure and use SAF?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="2" vertex="1">
           <mxGeometry x="60" y="28" width="310" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-83" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="2" target="LJBLf-9OPQEesqbSQKG5-71">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-83" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#FF0000;" parent="2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="288" y="458" as="sourcePoint" />
-            <mxPoint x="250" y="268" as="targetPoint" />
+            <mxPoint x="370" y="58" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="458" />
-              <mxPoint x="420" y="268" />
-              <mxPoint x="420" y="59" />
+              <mxPoint x="430" y="458" />
+              <mxPoint x="430" y="268" />
+              <mxPoint x="430" y="58" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.441;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="2" source="10" target="LJBLf-9OPQEesqbSQKG5-73">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.441;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="2" source="10" target="LJBLf-9OPQEesqbSQKG5-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-60" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1 SAF plant; flexibility mechanism&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2 SAF plant; without flexibility mechanism&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2 SAF plant; flexibility mechanism&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="2" vertex="1">
+          <mxGeometry x="268" y="242" width="162" height="122" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Module 2. Airport promotion for SAF adoption" style="swimlane;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="190" y="142" width="440" height="538" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="3" source="15" target="LJBLf-9OPQEesqbSQKG5-117">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="3" source="15" target="LJBLf-9OPQEesqbSQKG5-117" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="168" y="133" />
@@ -120,126 +116,126 @@
         <mxCell id="15" value="SAF subsidy quantity" style="" parent="3" vertex="1">
           <mxGeometry x="36" y="118" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="3" source="LJBLf-9OPQEesqbSQKG5-105" target="LJBLf-9OPQEesqbSQKG5-117">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="3" source="LJBLf-9OPQEesqbSQKG5-105" target="LJBLf-9OPQEesqbSQKG5-117" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="168" y="133" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-105" value="source of the airport&#39;s SAF subsidy" style="" vertex="1" parent="3">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-105" value="source of the airport&#39;s SAF subsidy" style="" parent="3" vertex="1">
           <mxGeometry x="224" y="118" width="192.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1.002;exitY=0.459;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3" source="LJBLf-9OPQEesqbSQKG5-85" target="LJBLf-9OPQEesqbSQKG5-105">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1.002;exitY=0.459;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3" source="LJBLf-9OPQEesqbSQKG5-85" target="LJBLf-9OPQEesqbSQKG5-105" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-85" value="1. What should be the source of the airport&#39;s SAF subsidy?&amp;nbsp;&lt;div&gt;2. Should the subsidy be a fixed amount or tied to the cost of SAF?&amp;nbsp;&lt;/div&gt;&lt;div&gt;3. Should there be a cap on the total subsidy?&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="3">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-85" value="1. What should be the source of the airport&#39;s SAF subsidy?&amp;nbsp;&lt;div&gt;2. Should the subsidy be a fixed amount or tied to the cost of SAF?&amp;nbsp;&lt;/div&gt;&lt;div&gt;3. Should there be a cap on the total subsidy?&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="3" vertex="1">
           <mxGeometry x="95" y="28" width="250" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="3" source="LJBLf-9OPQEesqbSQKG5-117" target="LJBLf-9OPQEesqbSQKG5-118">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="3" source="LJBLf-9OPQEesqbSQKG5-117" target="LJBLf-9OPQEesqbSQKG5-118" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-117" value="Module building and analysis" style="" vertex="1" parent="3">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-117" value="Module building and analysis" style="" parent="3" vertex="1">
           <mxGeometry x="87.75" y="163" width="160.5" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-118" value="4 kinds of subsidy strategy" style="" vertex="1" parent="3">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-118" value="4 kinds of subsidy strategy" style="" parent="3" vertex="1">
           <mxGeometry x="87.75" y="205" width="160.5" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-119" value="passenger demand function;&lt;div&gt;SAF cost function;&lt;/div&gt;&lt;div&gt;Policy restriction&lt;/div&gt;&lt;div&gt;etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-119" value="passenger demand function;&lt;div&gt;SAF cost function;&lt;/div&gt;&lt;div&gt;Policy restriction&lt;/div&gt;&lt;div&gt;etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="3" vertex="1">
           <mxGeometry x="264" y="158" width="162" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-120" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3" source="LJBLf-9OPQEesqbSQKG5-117" target="LJBLf-9OPQEesqbSQKG5-119">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-120" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3" source="LJBLf-9OPQEesqbSQKG5-117" target="LJBLf-9OPQEesqbSQKG5-119" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="548.5" y="157" as="sourcePoint" />
             <mxPoint x="598.5" y="107" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-121" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=90;" vertex="1" parent="3">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-121" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=90;" parent="3" vertex="1">
           <mxGeometry x="251" y="67" width="20" height="346" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-122" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="3" source="LJBLf-9OPQEesqbSQKG5-118" target="LJBLf-9OPQEesqbSQKG5-121">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-122" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="3" source="LJBLf-9OPQEesqbSQKG5-118" target="LJBLf-9OPQEesqbSQKG5-121" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="167" y="273" as="sourcePoint" />
             <mxPoint x="228.5" y="164" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-123" value="Combination set of subsidy patterns and sources" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;align=center;verticalAlign=middle;fillColor=none;gradientColor=none;fontSize=10;" vertex="1" parent="3">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-123" value="Combination set of subsidy patterns and sources" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;align=center;verticalAlign=middle;fillColor=none;gradientColor=none;fontSize=10;" parent="3" vertex="1">
           <mxGeometry x="84" y="252" width="346.5" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-124" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=left;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-123">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-124" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=left;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-123" vertex="1">
           <mxGeometry y="30" width="346.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-125" value="Subsidy patterns and sources" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontSize=10;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-124">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-125" value="Subsidy patterns and sources" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontSize=10;" parent="LJBLf-9OPQEesqbSQKG5-124" vertex="1">
           <mxGeometry width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-126" value="Cost differential subsidy" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontSize=10;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-124">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-126" value="Cost differential subsidy" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontSize=10;" parent="LJBLf-9OPQEesqbSQKG5-124" vertex="1">
           <mxGeometry x="150" width="102" height="30" as="geometry">
             <mxRectangle width="102" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-127" value="Fixed per-unit subsidy" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontSize=10;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-124">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-127" value="Fixed per-unit subsidy" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontSize=10;" parent="LJBLf-9OPQEesqbSQKG5-124" vertex="1">
           <mxGeometry x="252" width="95" height="30" as="geometry">
             <mxRectangle width="95" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-128" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=left;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-123">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-128" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=left;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-123" vertex="1">
           <mxGeometry y="60" width="346.5" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-129" value="Landing fee alone" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontSize=10;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-128">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-129" value="Landing fee alone" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontSize=10;" parent="LJBLf-9OPQEesqbSQKG5-128" vertex="1">
           <mxGeometry width="150" height="24" as="geometry">
             <mxRectangle width="150" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-130" value="scenario 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-128">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-130" value="scenario 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-128" vertex="1">
           <mxGeometry x="150" width="102" height="24" as="geometry">
             <mxRectangle width="102" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-131" value="scenario 2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-128">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-131" value="scenario 2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-128" vertex="1">
           <mxGeometry x="252" width="95" height="24" as="geometry">
             <mxRectangle width="95" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-132" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=left;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-123">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-132" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;align=left;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-123" vertex="1">
           <mxGeometry y="84" width="346.5" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-133" value="Landing fee + concession revenue" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontSize=10;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-132">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-133" value="Landing fee + concession revenue" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontSize=10;" parent="LJBLf-9OPQEesqbSQKG5-132" vertex="1">
           <mxGeometry width="150" height="28" as="geometry">
             <mxRectangle width="150" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-134" value="scenario 3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-132">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-134" value="scenario 3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-132" vertex="1">
           <mxGeometry x="150" width="102" height="28" as="geometry">
             <mxRectangle width="102" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-135" value="scenario 4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-132">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-135" value="scenario 4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-132" vertex="1">
           <mxGeometry x="252" width="95" height="28" as="geometry">
             <mxRectangle width="95" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-137" value="&lt;span style=&quot;font-weight: 700; text-align: -webkit-center;&quot;&gt;Policy and Management Recommendations&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-137" value="&lt;span style=&quot;font-weight: 700; text-align: -webkit-center;&quot;&gt;Policy and Management Recommendations&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="3" vertex="1">
           <mxGeometry x="29" y="378" width="270" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-138" value="1. Provide airports with recommendations on SAF subsidy policy strategies." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-137">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-138" value="1. Provide airports with recommendations on SAF subsidy policy strategies." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-137" vertex="1">
           <mxGeometry y="30" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-139" value="2. Compare social welfare under different strategies to provide references for SAF pricing." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-137">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-139" value="2. Compare social welfare under different strategies to provide references for SAF pricing." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-137" vertex="1">
           <mxGeometry y="70" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-140" value="3. Offer suggestions for policy regulations on SAF blending percentages." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-137">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-140" value="3. Offer suggestions for policy regulations on SAF blending percentages." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-137" vertex="1">
           <mxGeometry y="110" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.152;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="3" source="LJBLf-9OPQEesqbSQKG5-85" target="15">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.152;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="3" source="LJBLf-9OPQEesqbSQKG5-85" target="15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="54" y="68" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="3" source="LJBLf-9OPQEesqbSQKG5-139" target="LJBLf-9OPQEesqbSQKG5-85">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#FF0000;strokeColor=#FF0000;" parent="3" source="LJBLf-9OPQEesqbSQKG5-139" target="LJBLf-9OPQEesqbSQKG5-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="14" y="463" />
@@ -247,7 +243,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-150" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.033;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="3" source="LJBLf-9OPQEesqbSQKG5-118">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-150" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.033;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="3" source="LJBLf-9OPQEesqbSQKG5-118" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="84" y="216" as="sourcePoint" />
             <mxPoint x="62.909999999999854" y="376.31999999999994" as="targetPoint" />
@@ -259,24 +255,24 @@
         <mxCell id="4" value="Module 3. Airport-based capacity investment of SAF infrastructure" style="swimlane;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="650" y="142" width="440" height="538" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="4" source="LJBLf-9OPQEesqbSQKG5-153" target="LJBLf-9OPQEesqbSQKG5-154">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="4" source="LJBLf-9OPQEesqbSQKG5-153" target="LJBLf-9OPQEesqbSQKG5-154" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="133" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="4" source="LJBLf-9OPQEesqbSQKG5-153" target="LJBLf-9OPQEesqbSQKG5-155">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="4" source="LJBLf-9OPQEesqbSQKG5-153" target="LJBLf-9OPQEesqbSQKG5-155" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="133" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-153" value="&lt;div&gt;1. How do airports&#39; SAF infrastructure decisions affect investments across the supply chain?&lt;/div&gt;&lt;div&gt;2. What ownership structures best promote on-airport SAF infrastructure investment?&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="4">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-153" value="&lt;div&gt;1. How do airports&#39; SAF infrastructure decisions affect investments across the supply chain?&lt;/div&gt;&lt;div&gt;2. What ownership structures best promote on-airport SAF infrastructure investment?&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="4" vertex="1">
           <mxGeometry x="90.5" y="28" width="270" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=0.023;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryPerimeter=0;" edge="1" parent="4" source="LJBLf-9OPQEesqbSQKG5-154" target="LJBLf-9OPQEesqbSQKG5-156">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.524;entryY=0.023;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryPerimeter=0;" parent="4" source="LJBLf-9OPQEesqbSQKG5-154" target="LJBLf-9OPQEesqbSQKG5-156" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="91" y="156" />
@@ -285,10 +281,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-154" value="Ownership Strategy" style="" vertex="1" parent="4">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-154" value="Ownership Strategy" style="" parent="4" vertex="1">
           <mxGeometry x="31" y="118" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.526;entryY=0.008;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryPerimeter=0;" edge="1" parent="4" source="LJBLf-9OPQEesqbSQKG5-155" target="LJBLf-9OPQEesqbSQKG5-156">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.526;entryY=0.008;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryPerimeter=0;" parent="4" source="LJBLf-9OPQEesqbSQKG5-155" target="LJBLf-9OPQEesqbSQKG5-156" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="264" y="156" />
@@ -297,10 +293,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-155" value="Supply Chain Investment" style="" vertex="1" parent="4">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-155" value="Supply Chain Investment" style="" parent="4" vertex="1">
           <mxGeometry x="191" y="118" width="145.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="4" source="LJBLf-9OPQEesqbSQKG5-156" target="LJBLf-9OPQEesqbSQKG5-158">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="4" source="LJBLf-9OPQEesqbSQKG5-156" target="LJBLf-9OPQEesqbSQKG5-158" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="121" y="226" />
@@ -308,13 +304,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-156" value="Module building and analysis" style="" vertex="1" parent="4">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-156" value="Module building and analysis" style="" parent="4" vertex="1">
           <mxGeometry x="36" y="183" width="160.5" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-157" value="SAF cost function,with investment variable; Policy restriction;&lt;br&gt;etc." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-157" value="SAF cost function,with investment variable; Policy restriction;&lt;br&gt;etc." style="rounded=1;whiteSpace=wrap;html=1;" parent="4" vertex="1">
           <mxGeometry x="216" y="168" width="188.25" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.203;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4" source="LJBLf-9OPQEesqbSQKG5-158" target="LJBLf-9OPQEesqbSQKG5-163">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.203;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="4" source="LJBLf-9OPQEesqbSQKG5-158" target="LJBLf-9OPQEesqbSQKG5-163" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="103.875" y="365" as="targetPoint" />
             <Array as="points">
@@ -323,40 +319,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-158" value="3 kinds of Investment strategy" style="" vertex="1" parent="4">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-158" value="3 kinds of ownership structure" style="" parent="4" vertex="1">
           <mxGeometry x="17.75" y="258" width="172.25" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-159" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=0;" vertex="1" parent="4">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-159" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=0;" parent="4" vertex="1">
           <mxGeometry x="206.25" y="231" width="20" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-160" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Off-airport fuel supply, On-airport fuel supply, Airport, Airlines, operated seperately.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Airport invest on on-airport fuel supply&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Airlines invest on on-airport fuel supply&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="4">
-          <mxGeometry x="188.25" y="214" width="251.75" height="122" as="geometry" />
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-160" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Off-airport fuel supply, On-airport fuel supply, Airport, Airlines, operated seperately.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Airport invest on on-airport fuel supply&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Airlines invest on on-airport fuel supply&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="4" vertex="1">
+          <mxGeometry x="200" y="214" width="240" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-161" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4" source="LJBLf-9OPQEesqbSQKG5-158" target="LJBLf-9OPQEesqbSQKG5-159">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-161" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="4" source="LJBLf-9OPQEesqbSQKG5-158" target="LJBLf-9OPQEesqbSQKG5-159" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="127.25" y="243" as="sourcePoint" />
             <mxPoint x="177.25" y="193" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-163" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Policy and Management Recommendations&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="4">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-163" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Policy and Management Recommendations&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="4" vertex="1">
           <mxGeometry x="55.25" y="376" width="323.75" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-164" value="1. Provide a fresh perspective on the vertical integration of airports and their fuel suppliers." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-163">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-164" value="1. Provide a fresh perspective on the vertical integration of airports and their fuel suppliers." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-163" vertex="1">
           <mxGeometry y="30" width="323.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-165" value="2. Offer strategic recommendations for airlines investing in SAF facility construction." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-163">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-165" value="2. Offer strategic recommendations for airlines investing in SAF facility construction." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-163" vertex="1">
           <mxGeometry y="70" width="323.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-166" value="3. Provide strategic references for SAF investment and construction under different policy requirements." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="LJBLf-9OPQEesqbSQKG5-163">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-166" value="3. Provide strategic references for SAF investment and construction under different policy requirements." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-163" vertex="1">
           <mxGeometry y="110" width="323.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-167" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4" source="LJBLf-9OPQEesqbSQKG5-156" target="LJBLf-9OPQEesqbSQKG5-157">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-167" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="4" source="LJBLf-9OPQEesqbSQKG5-156" target="LJBLf-9OPQEesqbSQKG5-157" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-144" y="256" as="sourcePoint" />
             <mxPoint x="-94" y="206" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-177" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="4" source="LJBLf-9OPQEesqbSQKG5-165" target="LJBLf-9OPQEesqbSQKG5-153">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-177" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="4" source="LJBLf-9OPQEesqbSQKG5-165" target="LJBLf-9OPQEesqbSQKG5-153" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="191" y="296" as="sourcePoint" />
             <mxPoint x="241" y="246" as="targetPoint" />
@@ -366,23 +362,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-42" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0cm 0cm 8pt; line-height: normal; font-size: 11pt; font-family: DengXian;&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;The role of airports in the optimal deployment of sustainable aviation fuels (SAFs): Usage, incentives, and infrastructure investments&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-42" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin: 0cm 0cm 8pt; line-height: normal; font-size: 11pt; font-family: DengXian;&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;The role of airports in the effective deployment of sustainable aviation fuels (SAFs): Usage, incentives, and infrastructure investments&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="125" width="570" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="LJBLf-9OPQEesqbSQKG5-44" target="2">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="LJBLf-9OPQEesqbSQKG5-44" target="2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="LJBLf-9OPQEesqbSQKG5-44" target="4">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="LJBLf-9OPQEesqbSQKG5-44" target="4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="LJBLf-9OPQEesqbSQKG5-44" target="3">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="LJBLf-9OPQEesqbSQKG5-44" target="3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-44" value="Building the Foundation&lt;div&gt;Systematic Examination of Literature, Reports, and Policies Driving SAF Integration&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-44" value="Building the Foundation&lt;div&gt;Systematic Examination of Literature, Reports, and Policies Driving SAF Integration&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="182.5" y="66" width="455" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-182" value="&lt;div style=&quot;text-align: center;&quot;&gt;Analysis of the Most Effective Strategies for Sustainable Aviation Fuel Application at Airports:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Game Theory Modeling; Numerical Simulation;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Model Parameter Adjustment;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Policy and Management Recommendations&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-182" value="&lt;div style=&quot;text-align: center;&quot;&gt;Analysis of the Most Effective Strategies for Sustainable Aviation Fuel Application at Airports:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Game Theory Modeling; Numerical Simulation;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Model Parameter Adjustment;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Policy and Management Recommendations&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="85" y="700" width="650" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lu8GZyo01GJMkmbSmP88-16" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="280" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
