@@ -76,10 +76,10 @@
           <mxGeometry x="268" y="252" width="162" height="122" as="geometry" />
         </mxCell>
         <mxCell id="lu8GZyo01GJMkmbSmP88-20" value="Key points to consider" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="2" vertex="1">
-          <mxGeometry x="54" y="98" width="170" height="100" as="geometry" />
+          <mxGeometry x="54" y="98" width="170" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="lu8GZyo01GJMkmbSmP88-21" value="SAF cobenifit to the airport, etc..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lu8GZyo01GJMkmbSmP88-20" vertex="1">
-          <mxGeometry x="-5" y="76" width="170" height="30" as="geometry" />
+        <mxCell id="lu8GZyo01GJMkmbSmP88-21" value="SAF cobenifit to the airport, etc." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lu8GZyo01GJMkmbSmP88-20" vertex="1">
+          <mxGeometry y="76" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lu8GZyo01GJMkmbSmP88-22" value="Logistics carbon leakage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lu8GZyo01GJMkmbSmP88-20" vertex="1">
           <mxGeometry x="-5" y="20" width="130" height="30" as="geometry" />
@@ -231,7 +231,7 @@
         <mxCell id="lu8GZyo01GJMkmbSmP88-28" value="Key points to consider" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="3" vertex="1">
           <mxGeometry x="80" y="120" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lu8GZyo01GJMkmbSmP88-29" value="Promote SAF usage , etc..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lu8GZyo01GJMkmbSmP88-28" vertex="1">
+        <mxCell id="lu8GZyo01GJMkmbSmP88-29" value="Promote SAF usage , etc." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lu8GZyo01GJMkmbSmP88-28" vertex="1">
           <mxGeometry x="140" y="40" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lu8GZyo01GJMkmbSmP88-30" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;SAF subsidy quantity&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lu8GZyo01GJMkmbSmP88-28" vertex="1">
@@ -296,7 +296,7 @@
         <mxCell id="LJBLf-9OPQEesqbSQKG5-159" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;rotation=0;" parent="4" vertex="1">
           <mxGeometry x="206.25" y="250" width="20" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-160" value="&lt;ol style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Off-airport fuel supply, On-airport fuel supply, Airport, Airlines, operated seperately.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Airport invest on on-airport fuel supply&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Airlines invest on on-airport fuel supply&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=11;" parent="4" vertex="1">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-160" value="&lt;ol style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Off-airport fuel supply, On-airport fuel supply, Airport, Airlines, operated separately.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Airport invest on on-airport fuel supply&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Airlines invest on on-airport fuel supply&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=11;" parent="4" vertex="1">
           <mxGeometry x="200" y="233" width="240" height="122" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-161" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="4" source="LJBLf-9OPQEesqbSQKG5-158" target="LJBLf-9OPQEesqbSQKG5-159" edge="1">
@@ -334,9 +334,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lu8GZyo01GJMkmbSmP88-36" value="Key points to consider" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="4" vertex="1">
-          <mxGeometry x="36" y="105" width="270" height="62" as="geometry" />
+          <mxGeometry x="36" y="105" width="277" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="lu8GZyo01GJMkmbSmP88-37" value="midstream on-airport SAF facility&amp;nbsp;, etc..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="lu8GZyo01GJMkmbSmP88-36" vertex="1">
+        <mxCell id="lu8GZyo01GJMkmbSmP88-37" value="midstream on-airport SAF facility&amp;nbsp;, etc." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="lu8GZyo01GJMkmbSmP88-36" vertex="1">
           <mxGeometry x="97" y="45" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lu8GZyo01GJMkmbSmP88-38" value="Ownership Strategy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="lu8GZyo01GJMkmbSmP88-36" vertex="1">
