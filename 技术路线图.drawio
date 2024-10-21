@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="Module 1. Distribution of SAF Usage in airports" style="swimlane;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="142" width="450" height="548" as="geometry">
+          <mxGeometry x="-270" y="140" width="450" height="550" as="geometry">
             <mxRectangle x="-270" y="142" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -18,7 +18,7 @@
         <mxCell id="10" value=" SAF usage in 3 different scenarios" style="" parent="2" vertex="1">
           <mxGeometry x="44" y="288" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-52" value="passenger demand function;&lt;div style=&quot;font-size: 11px;&quot;&gt;Airports demant function;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="2" vertex="1">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-52" value="passenger demand function;&lt;div style=&quot;font-size: 11px;&quot;&gt;Airports demand function;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;etc.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="2" vertex="1">
           <mxGeometry x="249" y="198" width="162" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2" source="8" target="LJBLf-9OPQEesqbSQKG5-52" edge="1">
