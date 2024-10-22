@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-85" value="1. What should be the source of the airport&#39;s SAF subsidy?&amp;nbsp;&lt;div&gt;2. Should the subsidy be a fixed amount or tied to the cost of SAF?&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="3" vertex="1">
-          <mxGeometry x="35" y="28" width="370" height="65" as="geometry" />
+          <mxGeometry x="40" y="28" width="370" height="65" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="3" source="LJBLf-9OPQEesqbSQKG5-117" target="LJBLf-9OPQEesqbSQKG5-118" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry y="50" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lu8GZyo01GJMkmbSmP88-28" value="Key points to consider" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="3" vertex="1">
-          <mxGeometry x="35" y="100" width="360" height="75" as="geometry" />
+          <mxGeometry x="45" y="100" width="360" height="75" as="geometry" />
         </mxCell>
         <mxCell id="lu8GZyo01GJMkmbSmP88-30" value="Amount, pattern and source of the airport’s SAF subsidy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lu8GZyo01GJMkmbSmP88-28" vertex="1">
           <mxGeometry x="-10" y="22.5" width="270" height="30" as="geometry" />
