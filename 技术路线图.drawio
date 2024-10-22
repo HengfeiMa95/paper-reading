@@ -59,13 +59,13 @@
         <mxCell id="LJBLf-9OPQEesqbSQKG5-73" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Policy and Management Recommendations&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="2" vertex="1">
           <mxGeometry x="10" y="420" width="430" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-74" value="1. Comparing social welfare under different mechanism designs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-73" vertex="1">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-74" value="1. Comparing social welfare under different mechanism designs." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-73" vertex="1">
           <mxGeometry y="30" width="430" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-75" value="2. Airport SAF infrastructure construction strategies under specific policies" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-73" vertex="1">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-75" value="2. Airport SAF infrastructure construction strategies under specific policies." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-73" vertex="1">
           <mxGeometry y="50" width="430" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LJBLf-9OPQEesqbSQKG5-76" value="3. Comparing carbon reduction effects under different scenarios" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-73" vertex="1">
+        <mxCell id="LJBLf-9OPQEesqbSQKG5-76" value="3. Comparing carbon reduction effects under different scenarios." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="LJBLf-9OPQEesqbSQKG5-73" vertex="1">
           <mxGeometry y="70" width="430" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LJBLf-9OPQEesqbSQKG5-71" value="1. Should SAF be distributed equally across all airports?&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. What are the features of airports that should be encouraged to develop SAF infrastructure and use SAF?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="2" vertex="1">
@@ -268,9 +268,9 @@
         <mxCell id="LJBLf-9OPQEesqbSQKG5-157" value="Cost and benefit functions of SAF investment;&lt;div&gt;Participants&#39; profit functions under different ownership structures, etc.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="4" vertex="1">
           <mxGeometry x="210" y="204" width="230" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="rZtBLB-fVoA_DSwmURB1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="4" edge="1">
+        <mxCell id="rZtBLB-fVoA_DSwmURB1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120.5" y="410" as="targetPoint" />
+            <mxPoint x="121" y="420" as="targetPoint" />
             <mxPoint x="121" y="337.0000000000001" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="121" y="374" />
@@ -366,7 +366,7 @@
         <mxCell id="dX02OsiZjWg8V1MtrU-b-11" value="Research method" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="310" y="50" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dX02OsiZjWg8V1MtrU-b-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Game theory modeling;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Numerical simulation;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Model parameter c&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;alibration&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dX02OsiZjWg8V1MtrU-b-11">
+        <mxCell id="dX02OsiZjWg8V1MtrU-b-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Game theory modeling&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Numerical simulation&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Model parameter c&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;alibration&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dX02OsiZjWg8V1MtrU-b-11">
           <mxGeometry y="26" width="210" height="54" as="geometry" />
         </mxCell>
         <mxCell id="dX02OsiZjWg8V1MtrU-b-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
