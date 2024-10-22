@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2158" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2603" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,13 +204,16 @@
           <mxGeometry y="50" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lu8GZyo01GJMkmbSmP88-28" value="Key points to consider" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="3" vertex="1">
-          <mxGeometry x="60" y="100" width="330" height="75" as="geometry" />
+          <mxGeometry x="35" y="100" width="360" height="75" as="geometry" />
         </mxCell>
         <mxCell id="lu8GZyo01GJMkmbSmP88-30" value="Amount, pattern and source of the airport’s SAF subsidy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lu8GZyo01GJMkmbSmP88-28" vertex="1">
-          <mxGeometry x="25" y="22.5" width="270" height="30" as="geometry" />
+          <mxGeometry x="-10" y="22.5" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lu8GZyo01GJMkmbSmP88-32" value="Price difference between SAF and Jet A&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Concession Revenue, etc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lu8GZyo01GJMkmbSmP88-28" vertex="1">
-          <mxGeometry x="-10" y="45" width="340" height="30" as="geometry" />
+        <mxCell id="lu8GZyo01GJMkmbSmP88-32" value="Price difference between SAF and Jet A&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SAF cost uncertainty, etc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lu8GZyo01GJMkmbSmP88-28" vertex="1">
+          <mxGeometry y="45" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dX02OsiZjWg8V1MtrU-b-26" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Concession Revenue&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="lu8GZyo01GJMkmbSmP88-28">
+          <mxGeometry x="250" y="22.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lu8GZyo01GJMkmbSmP88-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3" source="lu8GZyo01GJMkmbSmP88-32" target="LJBLf-9OPQEesqbSQKG5-117" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -234,12 +237,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rZtBLB-fVoA_DSwmURB1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3" source="LJBLf-9OPQEesqbSQKG5-85" edge="1">
+        <mxCell id="rZtBLB-fVoA_DSwmURB1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="161" />
             </Array>
-            <mxPoint x="390" y="161" as="targetPoint" />
+            <mxPoint x="400" y="93" as="sourcePoint" />
+            <mxPoint x="395" y="161" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dX02OsiZjWg8V1MtrU-b-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="LJBLf-9OPQEesqbSQKG5-182">
@@ -377,6 +381,9 @@
             <mxPoint x="414.86" y="680" as="sourcePoint" />
             <mxPoint x="414.86" y="690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dX02OsiZjWg8V1MtrU-b-25" value="SAF cost uncertainty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
