@@ -315,8 +315,11 @@
         <mxCell id="lu8GZyo01GJMkmbSmP88-36" value="Key points to consider" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="4" vertex="1">
           <mxGeometry x="65" y="100" width="320" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="lu8GZyo01GJMkmbSmP88-43" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;On-airport facility onwership&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Aviation fuel supply chain&lt;/font&gt;&lt;div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;Production and transportation investment, etc&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lu8GZyo01GJMkmbSmP88-36" vertex="1">
-          <mxGeometry x="15" y="27.5" width="280" height="40" as="geometry" />
+        <mxCell id="lu8GZyo01GJMkmbSmP88-43" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;On-airport facility onwership&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Aviation fuel supply chain&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lu8GZyo01GJMkmbSmP88-36" vertex="1">
+          <mxGeometry x="15" y="22.5" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dX02OsiZjWg8V1MtrU-b-28" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;Production and transportation investment, etc&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="lu8GZyo01GJMkmbSmP88-36">
+          <mxGeometry x="45" y="45" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rZtBLB-fVoA_DSwmURB1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="4" source="lu8GZyo01GJMkmbSmP88-36" target="LJBLf-9OPQEesqbSQKG5-156" edge="1">
           <mxGeometry relative="1" as="geometry">
