@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="bUY8VZHTXtS8tpVRDV9Z">
-    <mxGraphModel dx="3134" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-2" value="Module l: Empirical Study" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-938" y="155" width="235" height="103" as="geometry" />
+          <mxGeometry x="-615.5" y="160" width="235" height="103" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-3" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Counter-factual analysis:&lt;/font&gt;&lt;/b&gt;&lt;div&gt;analyzing market structure consequence&amp;nbsp;&lt;/div&gt;&lt;div&gt;of&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;COMAC export to Southeast Asian&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;countries&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ihivDM0cx8v0_Tw8rfpg-2">
           <mxGeometry x="-5" y="26" width="240" height="70" as="geometry" />
@@ -17,13 +17,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-920" y="290" width="200" height="90" as="geometry" />
+          <mxGeometry x="-597.5" y="295" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-6" value="Financially beneficial to the importing countries?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-915" y="313" width="190" height="50" as="geometry" />
+          <mxGeometry x="-592.5" y="318" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-7" value="&lt;b&gt;Module ll: Analytical Analysis&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1012.5" y="420" width="385" height="150" as="geometry" />
+          <mxGeometry x="-690" y="425" width="385" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-8" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Component 1&lt;/font&gt;&lt;/b&gt;: Two ways that the exporting country (China) can subsidize the export of aircraft" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ihivDM0cx8v0_Tw8rfpg-7">
           <mxGeometry y="30" width="385" height="40" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry y="110" width="385" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-11" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="-517.5" y="385" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ihivDM0cx8v0_Tw8rfpg-2" target="ihivDM0cx8v0_Tw8rfpg-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-663" y="207" />
-              <mxPoint x="-508" y="207" />
+              <mxPoint x="-340.5" y="212" />
+              <mxPoint x="-185.5" y="212" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-14" value="&lt;b&gt;Module lll: Simulation Analysis&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-623" y="265" width="230" height="140" as="geometry" />
+          <mxGeometry x="-300.5" y="270" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-15" value="Expand the models in Module ll to build a comprehensive framework to incorporate all realistic factors for certain markets (Southeast Asian countries) and generate policy suggestions for the realistic situations." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ihivDM0cx8v0_Tw8rfpg-14">
           <mxGeometry y="30" width="230" height="110" as="geometry" />
@@ -58,13 +58,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-17" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="-387.5" y="315" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-18" value="Parameter calibration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="180" width="130" height="40" as="geometry" />
+          <mxGeometry x="-347.5" y="185" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-19" value="Model setting" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="487" width="80" height="30" as="geometry" />
+          <mxGeometry x="-277.5" y="492" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
