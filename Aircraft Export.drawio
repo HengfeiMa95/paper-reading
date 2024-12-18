@@ -70,7 +70,7 @@
           <mxGeometry x="-290" y="-300" width="330.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ihivDM0cx8v0_Tw8rfpg-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Aircraft Export&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=35;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="95" width="640" height="495" as="geometry" />
+          <mxGeometry x="-700" y="110" width="640" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
