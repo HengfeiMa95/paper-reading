@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="F2fmTXUnS6H72QZp40Jt">
-    <mxGraphModel dx="1434" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,6 +44,45 @@
         </mxCell>
         <mxCell id="zcvoPzxGpFqEc6gYfrY5-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="661" y="180" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-16" value="Literature review: Form pathway screening criteria" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcvoPzxGpFqEc6gYfrY5-17" target="zcvoPzxGpFqEc6gYfrY5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-17" value="Market research on SAF feedstock in Hong Kong" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="510" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcvoPzxGpFqEc6gYfrY5-18" target="zcvoPzxGpFqEc6gYfrY5-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-18" value="Assess technical and economic feasibility of key pathways" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="560" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zcvoPzxGpFqEc6gYfrY5-19" target="zcvoPzxGpFqEc6gYfrY5-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-19" value="Facility location selection and investment strategies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="610" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-20" value="Complete final report on SAF production pathway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="550" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-21" value="Supply and price analysis report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="510" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-22" value="Form analysis report and pathway ranking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="560" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-23" value="Propose actionable strategic recommendations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="610" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="250" y="520" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="630" y="520" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
