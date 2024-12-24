@@ -96,8 +96,8 @@
         <mxCell id="zcvoPzxGpFqEc6gYfrY5-38" value="C&lt;span style=&quot;background-color: initial;&quot;&gt;ost of SAF production in future&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="720" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zcvoPzxGpFqEc6gYfrY5-40" value="Comparing the price of carbon credit and SAF production cost in different times" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="760" width="170" height="60" as="geometry" />
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-40" value="Comparing carbon credit price and SAF cost in future" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="770" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zcvoPzxGpFqEc6gYfrY5-41" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="250" y="790" width="20" height="50" as="geometry" />
