@@ -84,6 +84,27 @@
         <mxCell id="zcvoPzxGpFqEc6gYfrY5-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="630" y="520" width="20" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-31" value="Analyze the underlying carbon credit price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="770" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-36" value="Collect carbon credit price data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="800" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-37" value="Analysis the policy influence on carbon credits&#39; price" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="820" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-38" value="C&lt;span style=&quot;background-color: initial;&quot;&gt;ost of SAF production in future&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="720" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-40" value="Comparing the price of carbon credit and SAF production cost in different times" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="760" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-41" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="250" y="790" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zcvoPzxGpFqEc6gYfrY5-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="440" y="740" width="20" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
