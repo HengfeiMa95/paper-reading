@@ -1,9 +1,97 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="X2c9Dd9qTNSqmmNxECvR">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-1" value="开始研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="243" y="20" width="124" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-2" value="建立透明度与系统改进理论模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="124" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-3" value="任务不确定性是否存在？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="252" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-4" value="激活促进焦点路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="56" y="555" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-5" value="透明度 ➔ 促进焦点 ➔ 系统改进" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="659" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-6" value="系统改进显著增强" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="56" y="787" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-7" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="259" y="891" width="92" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-8" value="激活预防焦点路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="366" y="555" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-9" value="透明度 ➔ 预防焦点 ➔ 系统改进" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="659" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-10" value="系统改进被抑制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="374" y="787" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yxBTDVeJql7iWDM1GE8P-1" target="yxBTDVeJql7iWDM1GE8P-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yxBTDVeJql7iWDM1GE8P-2" target="yxBTDVeJql7iWDM1GE8P-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-13" value="高任务不确定性" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="yxBTDVeJql7iWDM1GE8P-3" target="yxBTDVeJql7iWDM1GE8P-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="518" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="yxBTDVeJql7iWDM1GE8P-4" target="yxBTDVeJql7iWDM1GE8P-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="yxBTDVeJql7iWDM1GE8P-5" target="yxBTDVeJql7iWDM1GE8P-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.2;rounded=0;" edge="1" parent="1" source="yxBTDVeJql7iWDM1GE8P-6" target="yxBTDVeJql7iWDM1GE8P-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="866" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-17" value="低任务不确定性" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="yxBTDVeJql7iWDM1GE8P-3" target="yxBTDVeJql7iWDM1GE8P-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="518" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="yxBTDVeJql7iWDM1GE8P-8" target="yxBTDVeJql7iWDM1GE8P-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="yxBTDVeJql7iWDM1GE8P-9" target="yxBTDVeJql7iWDM1GE8P-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yxBTDVeJql7iWDM1GE8P-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.2;rounded=0;" edge="1" parent="1" source="yxBTDVeJql7iWDM1GE8P-10" target="yxBTDVeJql7iWDM1GE8P-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="866" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
