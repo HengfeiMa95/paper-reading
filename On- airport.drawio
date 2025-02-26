@@ -1,9 +1,80 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="cMNmz97BhSYnEhP8v0Ot">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-1" value="Price Gap" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="241" y="50" width="129" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-2" value="Increasing SAF Proportion" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="69.5" y="157.5" width="161" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-3" value="Increasing SAF Proportion" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="375" y="162.5" width="171" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-4" value="High Pollution &amp; Fuel Costs &gt; Passenger Utility" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="260" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-5" value="Negative Net Social Welfare per Passenger" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20.5" y="270" width="260" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-6" value="Independent operate to reduce passengers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="32" y="331" width="237" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-7" value="Modest Cost Increase + Pollution Reduction&lt; Passenger Utility" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="285.5" y="220" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-8" value="Positive Net Social Welfare per Passenger" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330.5" y="270" width="260" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-9" value="More Passengers via Integrated Operations" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330.5" y="331" width="260" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-11" value="Large" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EKMZtFS9GPtR8-YHlpa5-1" target="EKMZtFS9GPtR8-YHlpa5-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-12" value="Small" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EKMZtFS9GPtR8-YHlpa5-1" target="EKMZtFS9GPtR8-YHlpa5-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EKMZtFS9GPtR8-YHlpa5-2" target="EKMZtFS9GPtR8-YHlpa5-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EKMZtFS9GPtR8-YHlpa5-4" target="EKMZtFS9GPtR8-YHlpa5-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EKMZtFS9GPtR8-YHlpa5-5" target="EKMZtFS9GPtR8-YHlpa5-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EKMZtFS9GPtR8-YHlpa5-3" target="EKMZtFS9GPtR8-YHlpa5-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EKMZtFS9GPtR8-YHlpa5-7" target="EKMZtFS9GPtR8-YHlpa5-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKMZtFS9GPtR8-YHlpa5-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EKMZtFS9GPtR8-YHlpa5-8" target="EKMZtFS9GPtR8-YHlpa5-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
