@@ -1,9 +1,97 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.7">
   <diagram name="Page-1" id="vd2jXgRufMcOJ3P3OGa3">
-    <mxGraphModel>
+    <mxGraphModel dx="1412" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HcMMdIIndDVs60_mjF6N-71" value="Literature review" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="92.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-72" value="Airport Vertical Integration" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="990" y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-73" value="SAF Implementation Impact" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="150" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-74" value="Theoretical Perspectives" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="866" y="231" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-75" value="Practical Perspectives" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="950" y="310" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-76" value="Double Marginalization&#xa;Bolton &amp; Whinston, 1993&#xa;Tirole, 1988" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="680" y="260" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-78" value="Property Rights&#xa;Grossman &amp; Hart, 1986&#xa;Hart &amp; Moore, 1990" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="690" y="189" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-79" value="Integration vs. Outsourcing&#xa;Church &amp; Ware, 2000" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="670" y="329" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-80" value="Ownership Models&#xa;Almansur et al., 2020&#xa;Doganis, 2002&#xa;Wensveen, 2015" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;absoluteArcSize=0;imageAspect=1;" vertex="1" parent="1">
+          <mxGeometry x="1116" y="319" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-82" value="Independent Suppliers/PPP&#xa;Engel et al., 2018&#xa;Gillen &amp; Mantin, 2014" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1116" y="397" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-83" value="Efficiency &amp; Revenue&#xa;Oum et al., 2008&#xa;Zhang &amp; Zhang, 2003" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1116" y="250" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-84" value="Policy Implementation&#xa;Chen et al., 2024&#xa;European Union, 2021" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-85" value="Infrastructure &amp; Logistics&#xa;Braun et al., 2024" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="210" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-86" value="Airport Planning&#xa;ACI, 2022" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="285" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-87" value="Environmental &amp; Economic Impact&#xa;Jiang &amp; Liu, 2025&#xa;Zheng et al., 2024" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="285" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-91" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0;rounded=0;arcSize=8;" edge="1" parent="1" source="HcMMdIIndDVs60_mjF6N-71" target="HcMMdIIndDVs60_mjF6N-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-92" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=0;rounded=0;arcSize=8;" edge="1" parent="1" source="HcMMdIIndDVs60_mjF6N-71" target="HcMMdIIndDVs60_mjF6N-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;arcSize=8;exitDx=0;exitDy=0;" edge="1" parent="1" source="HcMMdIIndDVs60_mjF6N-72" target="HcMMdIIndDVs60_mjF6N-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;arcSize=8;exitDx=0;exitDy=0;" edge="1" parent="1" source="HcMMdIIndDVs60_mjF6N-72" target="HcMMdIIndDVs60_mjF6N-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-77" value="Reduced Markups&#xa;Perry, 1989&#xa;Rey &amp; Tirole, 2007" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-110" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;strokeWidth=2;arcSize=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="846" y="150" width="20" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-81" value="Airport-Owned Models&#xa;Graham, 2008" style="whiteSpace=wrap;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1116" y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-112" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=default;strokeWidth=2;arcSize=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="220" width="20" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HcMMdIIndDVs60_mjF6N-113" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=default;strokeWidth=2;arcSize=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1447.5" y="92.5" width="20" height="195" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
